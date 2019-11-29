@@ -35,7 +35,7 @@ The following guides explain how to use Apache Zeppelin that enables you to writ
 
 <br/>
 
-For the further information about Spark support in Zeppelin, please check 
+For the further information about Python support in Zeppelin, please check 
 
 - [Python Interpreter](../interpreter/python.html)
 
